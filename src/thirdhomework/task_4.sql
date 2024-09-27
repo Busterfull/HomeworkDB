@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS author_index ON student21.books(author_id);
